@@ -1,8 +1,10 @@
 # AutoComment-SMS
 Instagram auto commenter and SMS notification
 
-- Insert URL of post you want to comment
+- Insert Username and Password
+- Insert URL of the post
 - Insert Comment
+- Insert Country and Phone Number
 - Get an SMS notification when the comment is posted!
 
 # Instructions 
